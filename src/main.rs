@@ -10,6 +10,6 @@ fn main() {
             quiz.run();
         }
        },
-       None => { println!("Shit") } 
+       None => { println!("I need a quiz file!") } 
     }
 }
